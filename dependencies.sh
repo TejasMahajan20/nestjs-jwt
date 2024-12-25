@@ -7,6 +7,7 @@ npm i --save @nestjs/jwt &
 npm i --save bcrypt @types/bcrypt &
 npm i --save class-validator class-transformer &
 npm i --save @nestjs/swagger &
+npm i --save @nestjs/typeorm typeorm pg &
 
 wait
 
